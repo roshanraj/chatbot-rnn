@@ -40,7 +40,7 @@ def main():
     sample_main(args)
 
 def get_paths(input_path):
-    print(input_path)
+   
     if os.path.isfile(input_path):
         # Passed a model rather than a checkpoint directory
         model_path = input_path

@@ -1,5 +1,9 @@
 # chatbot-rnn
+<<<<<<< HEAD
 A toy chatbot powered by deep learning and trained on data from Reddit. Intially Built on TensorFlow v1.4.0 and Python v3.5.1 which can be found at [source from author](https://github.com/pender/chatbot-rnn)
+=======
+A toy chatbot powered by deep learning and trained on data from Reddit. Built on TensorFlow v1.4.0 and Python v3.5.1.
+>>>>>>> 82cbb710beaf15da11b60e03f00bdbfd521df754
 
 Here is a sample chat transcript (not cherry-picked). Lines that start with ">" are me; the lines without ">" are the chatbot's responses.
 
